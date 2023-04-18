@@ -1,0 +1,10 @@
+venv
+__pycache__
+*.log
+*.log.*
+
+*.jpg
+*.png
+/assets/projects
+/assets/cal_res
+/enre-type2.0.jar

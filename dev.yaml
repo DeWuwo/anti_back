@@ -1,0 +1,10 @@
+ENV: development
+DEBUG: true
+TESTING: true
+SECRET_KEY: hR2F8ys6asyrM8rs
+LEVEL: 10
+ARANGODB_SETTINGS: { 'host': 'localhost', 'port': 8529}
+ARANGODB_CLUSTER: False
+ARANGODB_DATABASE: 'anti_pattern'
+ARANGODB_USER: 'root'
+ARANGODB_PASSWORD: '753951'
